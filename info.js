@@ -2,7 +2,7 @@
 
 
 // 博客名字
-var blog_title = "刘镕硕的博客";
+var blog_title = "YRnene的博客";
 
 // 404页面提示文本
 var page_not_found_text = "页面不见了";
